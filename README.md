@@ -1,5 +1,4 @@
 # givemyresume.github.io
 
-Users till now
+## Users till now
 
-  - [Subhayu Kumar Bala](https://givemyresume.github.io/subhayu99)
