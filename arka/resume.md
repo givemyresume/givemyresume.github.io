@@ -1,7 +1,7 @@
 # Arka Ghosh
 
 - <arkag1999@gmail.com>
-- +91 9083663445
+- 9083663445
 - Durgapur, WB, India
 
 I am a good boy
