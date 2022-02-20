@@ -8,7 +8,7 @@ I am a good boy
 
 
 ## Skills
-  - Pen Fighting, Tod-fod center
+  - Pen Fighting
 
 
 ## Education
