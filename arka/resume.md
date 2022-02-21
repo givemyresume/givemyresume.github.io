@@ -13,7 +13,7 @@ I am a good boy
 
 ## Education
 
-### <span>DIATM, Rajbandh</span> <span>07, 2021 -- Present</span>
+### <span>DIATM, Rajbandh</span> <span>07/2021 -- Present</span>
 
   - Studied a lot
 
