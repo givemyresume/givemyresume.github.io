@@ -20,17 +20,17 @@ Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior
 
 ## Education
 
-### <span>Calcutta Institute of Engg. and Management</span> <span>08/20 -- Present</span>
+### <span>Calcutta Institute of Engg. and Management, B.Tech. IT</span> <span>08/2018 -- Present</span>
 
   - Made great friends
   - Had lots of fun
 
-### <span>Amrita Vidyalayam</span> <span>05/2016 -- 04/2018</span>
+### <span>Amrita Vidyalayam, HSE</span> <span>05/2016 -- 04/2018</span>
 
   - Spent the best time of my life here
   - Enjoyed a lot
 
-### <span>Amrita Vidyalayam</span> <span>2014 -- 2016</span>
+### <span>Amrita Vidyalayam, SSE</span> <span>05/2014 -- 04/2016</span>
 
   - Teachers were great
 
@@ -53,5 +53,12 @@ Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior
 ### <span>Finadict</span> <span>10/2021</span>
 
   - Predict stocks, forex, crypto prices
-  - Uses ML
+  - Domains Covered: Machine Learning, Web Development
+
+### <span>Resume Builder Website & API</span> <span>02/2022</span>
+
+  - A website and an API for dynamically creating resume. The resume gets hosted automatically on GitHub pages. 
+  - Also, the whole project can be easily spinned up by a simple `terraform apply` command with some variables.
+  - Live URL: givemyresume.tech
+  - Domains covered: Backend, Docker, Cloud, IaaC, CI/CD, Linux
 
