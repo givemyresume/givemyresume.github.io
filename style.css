@@ -50,10 +50,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 body {
-  color: #333;
+  color: #f7f7f7;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  background: #f7f7f7;
+  background: #111111;
 }
 
 h1 {
@@ -176,7 +176,7 @@ ion-icon {
   -ms-transform: scale(1.25, 1.25);
   -webkit-transform: scale(1.25, 1.25);
   transform: scale(1.25, 1.25);
-  color: white;
+  color: rgb(32, 32, 32);
 }
 
 .social li:before {
@@ -205,27 +205,27 @@ ion-icon {
 }
 
 .icon-2 {
-  color: #c8ff00;
+  color: #ccff00;
 }
 
 .icon-2:hover {
-  background: #c8ff00;
+  background: #ccff00;
 }
 
 .icon-3 {
-  color: #33ff00;
+  color: #7bff00;
 }
 
 .icon-3:hover {
-  background: #33ff00;
+  background: #7bff00;
 }
 
 .icon-4 {
-  color: #00ff40;
+  color: #00ff80;
 }
 
 .icon-4:hover {
-  background: #00ff40;
+  background: #00ff80;
 }
 
 .icon-5 {
