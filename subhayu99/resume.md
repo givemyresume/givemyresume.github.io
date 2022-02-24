@@ -1,9 +1,9 @@
 # Subhayu Kumar Bala
 
-- <99bala.subhayu@gmail.com>
+- <balasubhayu99@gmail.com>
 - +919382877751
 - [subhayu.codes](https://subhayu.codes)
-- Shyampur Colony, Street No 18
+- Durgapur, WB, India
 
 Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior pursuing my Bachelors in Information Technology. I am keenly interested in any of the Computer Science subdomains, Astrophysics, Astronomy and a little bit of Philosophy.
 
