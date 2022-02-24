@@ -244,7 +244,7 @@ ion-icon {
 #spin:after {
   content: "impressive";
   color: rgb(212, 248, 6);
-  animation: spin 3s ease-in-out alternate infinite;
+  animation: spin 5s ease-in-out alternate infinite;
 }
 
 @keyframes spin {
@@ -265,10 +265,10 @@ ion-icon {
     content: "sharable";
   }
   62% {
-    content: "printable";
+    content: "cool af";
   }
   75% {
-    content: "easy";
+    content: "printable";
   }
   87% {
     content: "simple";
