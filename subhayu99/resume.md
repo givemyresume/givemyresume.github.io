@@ -1,6 +1,6 @@
 # Subhayu Kumar Bala
 
-- <balasubhayu99@gmail.com>
+- <99bala.subhayu@gmail.com>
 - +919382877751
 - [subhayu.codes](https://subhayu.codes)
 - Shyampur Colony, Street No 18
