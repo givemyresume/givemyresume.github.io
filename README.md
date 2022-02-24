@@ -7,3 +7,4 @@
   - [Arka Ghosh](https://givemyresume.github.io/arka)
   - [Kartikey Dave](https://givemyresume.github.io/kartikey)
   - [Trinankur Paul](https://givemyresume.github.io/trinankur)
+  - [TANMOY MALAKAR](https://givemyresume.github.io/tan123)
