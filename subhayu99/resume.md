@@ -1,6 +1,6 @@
 # Subhayu Kumar Bala
 
-- <balasubhayu99@gmail.com>
+- <subhayu.kumar@fiftyfivetech.io>
 - +919382877751
 - [subhayu.codes](https://subhayu.codes)
 - Durgapur, WB, India
