@@ -10,3 +10,4 @@
   - [TANMOY MALAKAR](https://givemyresume.github.io/tan123)
   - [Raunak Paul ](https://givemyresume.github.io/raunak%20paul)
   - [Sourav Das](https://givemyresume.github.io/sourav%20das)
+  - [MAINAK GHOSH](https://givemyresume.github.io/mainak%20ghosh)
