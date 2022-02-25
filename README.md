@@ -15,3 +15,4 @@
   - [Ankur Barai](https://givemyresume.github.io/ankurbarai)
   - [Ankush Dutta](https://givemyresume.github.io/ankush)
   - [Anupam Chatterjee ](https://givemyresume.github.io/anupam1999)
+  - [Amaan Alam](https://givemyresume.github.io/amaanalam)
