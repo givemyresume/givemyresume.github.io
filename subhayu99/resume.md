@@ -60,5 +60,5 @@ Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior
   - A website and an API for dynamically creating resume. The resume gets hosted automatically on GitHub pages and an email is sent to the user with the resume link. 
   - Also, the whole project can be easily spinned up by a simple `terraform apply` command with some variables.
   - Live URL: <a href="https://givemyresume.tech">givemyresume.tech</a>
-  - Domains covered: Backend, Docker, Cloud, IaaC, CI/CD, Linux, Shell, SMTP
+  - Domains covered: Backend, Docker, Cloud (AWS), IaaC (Terraform), CI/CD, Linux, Shell, SMTP
 
