@@ -14,3 +14,4 @@
   - [SUMAN DUTTA](https://givemyresume.github.io/userxyz)
   - [Ankur Barai](https://givemyresume.github.io/ankurbarai)
   - [Ankush Dutta](https://givemyresume.github.io/ankush)
+  - [Anupam Chatterjee ](https://givemyresume.github.io/anupam1999)
