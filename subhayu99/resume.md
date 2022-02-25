@@ -1,6 +1,6 @@
-# xxx
+# Subhayu Kumar Bala
 
-- <subhayu.kumar@fiftyfivetech.io>
+- <balasubhayu99@gmail.com>
 - +919382877751
 - [subhayu.codes](https://subhayu.codes)
 - Durgapur, WB, India
@@ -57,7 +57,7 @@ Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior
 
 ### <span>Resume Builder Website & API</span> <span>02/2022</span>
 
-  - A website and an API for dynamically creating resume. The resume gets hosted automatically on GitHub pages. 
+  - A website and an API for dynamically creating resume. The resume gets hosted automatically on GitHub pages and an email is sent to the user with the resume link. 
   - Also, the whole project can be easily spinned up by a simple `terraform apply` command with some variables.
   - Live URL: <a href="https://app1.givemyresume.tech">givemyresume.tech</a>
   - Domains covered: Backend, Docker, Cloud, IaaC, CI/CD, Linux, SMTP
