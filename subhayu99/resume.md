@@ -1,6 +1,6 @@
 # Subhayu Kumar Bala
 
-- <chandrimabala2004@gmail.com>
+- <balasubhayu99@gmail.com>
 - +919382877751
 - [subhayu.codes](https://subhayu.codes)
 - Durgapur, WB, India
