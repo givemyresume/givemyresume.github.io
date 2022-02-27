@@ -24,8 +24,6 @@ I am a good boy
 
 
 
-## Experience
 
 
-## Projects
 
