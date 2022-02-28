@@ -17,3 +17,4 @@
   - [Anupam Chatterjee ](https://givemyresume.github.io/anupam1999)
   - [Amaan Alam](https://givemyresume.github.io/amaanalam)
   - [Deep Saha](https://givemyresume.github.io/naruto99)
+  - [KD SINGH](https://givemyresume.github.io/djsahdaj)
