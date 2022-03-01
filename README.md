@@ -18,3 +18,4 @@
   - [Amaan Alam](https://givemyresume.github.io/amaanalam)
   - [Deep Saha](https://givemyresume.github.io/naruto99)
   - [KD SINGH](https://givemyresume.github.io/djsahdaj)
+  - [Dipayan Mukherjee](https://givemyresume.github.io/dipayanmukherjee)
