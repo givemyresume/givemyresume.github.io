@@ -8,9 +8,13 @@ I am a fresher very much eager to make my way into a professional job, with a Ba
 
 
 ## Skills
-  - ORGANIZED
-  - PATIENT
-  - ADAPTIVE
+  - MS OFFICE
+  - AUTOCAD
+  - ADOBE PHOTOSHOP
+  - ADOBE LIGHTROOM
+  - ADOBE PREMIERE PRO
+  - LR TIMELAPSE
+  - DAVINCI RESOLVE
 
 
 ## Education
