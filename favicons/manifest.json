@@ -1,5 +1,8 @@
 {
     "name": "GiveMyResume",
+    "short_name": "Resume",
+    "start_url": "index.html",
+    "scope": "./",
     "icons": [
       {
         "src": "/android-icon-36x36.png",
@@ -49,5 +52,8 @@
         "sizes": "750x1334",
         "type": "image/png"
       }
-    ]
+    ],
+    "background_color": "#1c1c1c",
+    "theme_color": "#1c1c1c",
+    "display": "standalone"
   }
