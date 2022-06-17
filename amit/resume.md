@@ -1,6 +1,6 @@
 # Mohammed Modi
 
-- <mohammedmodi1992@gmail.com>
+- <2sourish@gmail.com>
 - 09382877751
 - 3rd Floor, Goletha House, 130 R R M Roy Road
 
