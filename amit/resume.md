@@ -1,4 +1,4 @@
-# Mohammed Modi
+# Amit Roy
 
 - <2sourish@gmail.com>
 - 09382877751
