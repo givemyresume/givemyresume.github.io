@@ -21,3 +21,4 @@
   - [Dipayan Mukherjee](https://givemyresume.github.io/dipayanmukherjee)
   - [Chirantan Chakraborty](https://givemyresume.github.io/chirantan)
   - [Amit Roy](https://givemyresume.github.io/amit)
+  - [Supriyo Dam](https://givemyresume.github.io/supriyodam)
