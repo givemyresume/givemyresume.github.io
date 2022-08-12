@@ -2,7 +2,7 @@
 
 - <balasubhayu99@gmail.com>
 - +919382877751
-- [subhayu.codes](https://subhayu.codes)
+- [subhayu99.github.io](https://subhayu99.github.io)
 - Durgapur, WB, India
 
 Hello! I am Subhayu Kumar Bala, a Developer, Open Source enthusiast and a Senior pursuing my Bachelors in Information Technology. I am keenly interested in any of the Computer Science subdomains, Astrophysics, Astronomy and a little bit of Philosophy.
